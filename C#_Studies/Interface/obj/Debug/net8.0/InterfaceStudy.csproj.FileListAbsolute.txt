@@ -1,0 +1,14 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\bin\Debug\net8.0\InterfaceStudy.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\bin\Debug\net8.0\InterfaceStudy.deps.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\bin\Debug\net8.0\InterfaceStudy.runtimeconfig.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\bin\Debug\net8.0\InterfaceStudy.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\bin\Debug\net8.0\InterfaceStudy.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.AssemblyInfoInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.AssemblyInfo.cs
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\refint\InterfaceStudy.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\InterfaceStudy.genruntimeconfig.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Interface\obj\Debug\net8.0\ref\InterfaceStudy.dll

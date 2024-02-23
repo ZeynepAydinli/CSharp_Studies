@@ -1,0 +1,10 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\bin\Debug\AdoNetStduy.exe.config
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\bin\Debug\AdoNetStduy.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\bin\Debug\AdoNetStduy.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.csproj.AssemblyReference.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.Form1.resources
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.Properties.Resources.resources
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.csproj.GenerateResource.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\AdoNetStduy\AdoNetStduy\obj\Debug\AdoNetStduy.pdb

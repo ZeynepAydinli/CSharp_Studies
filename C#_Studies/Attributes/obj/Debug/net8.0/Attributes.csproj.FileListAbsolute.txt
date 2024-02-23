@@ -1,0 +1,14 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.AssemblyInfo.cs
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\bin\Debug\net8.0\Attributes.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\bin\Debug\net8.0\Attributes.deps.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\bin\Debug\net8.0\Attributes.runtimeconfig.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\bin\Debug\net8.0\Attributes.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\bin\Debug\net8.0\Attributes.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\refint\Attributes.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\Attributes.genruntimeconfig.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Attributes\obj\Debug\net8.0\ref\Attributes.dll

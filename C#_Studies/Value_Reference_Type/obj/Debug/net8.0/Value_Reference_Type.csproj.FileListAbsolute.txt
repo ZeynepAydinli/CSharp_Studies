@@ -1,0 +1,14 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\bin\Debug\net8.0\Value_Reference_Type.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\bin\Debug\net8.0\Value_Reference_Type.deps.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\bin\Debug\net8.0\Value_Reference_Type.runtimeconfig.json
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\bin\Debug\net8.0\Value_Reference_Type.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\bin\Debug\net8.0\Value_Reference_Type.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.AssemblyInfoInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.AssemblyInfo.cs
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\refint\Value_Reference_Type.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\Value_Reference_Type.genruntimeconfig.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\Value_Reference_Type\obj\Debug\net8.0\ref\Value_Reference_Type.dll

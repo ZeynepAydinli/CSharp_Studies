@@ -1,0 +1,15 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFrameworkStudy.exe.config
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFrameworkStudy.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFrameworkStudy.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFramework.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFramework.xml
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.csproj.AssemblyReference.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.Form1.resources
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.Properties.Resources.resources
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.csproj.GenerateResource.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.csproj.CopyComplete
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\EntityFrameworkStudy\EntityFrameworkStudy\obj\Debug\EntityFrameworkStudy.pdb

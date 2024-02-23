@@ -1,0 +1,7 @@
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\bin\Debug\StudyGenerals.exe.config
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\bin\Debug\StudyGenerals.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\bin\Debug\StudyGenerals.pdb
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\obj\Debug\StudyGenerals.csproj.AssemblyReference.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\obj\Debug\StudyGenerals.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\obj\Debug\StudyGenerals.exe
+C:\Users\zeyne\Documents\1Software\C# Denemeler\C#_Studies\StudyGenerals\obj\Debug\StudyGenerals.pdb
