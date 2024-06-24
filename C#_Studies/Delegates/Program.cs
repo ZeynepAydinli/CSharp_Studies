@@ -18,18 +18,20 @@ class Program
     {
         // Func
 
-        Func<int, int, int> addFunc = Add;
+        Func<int, int, int> addFunc = Add; //Parametre olduğu zaman birden fazla int yazılır
         Console.WriteLine(addFunc(3, 5));
 
-        Func<int> getRandomNumber = delegate()
+        Func<int> getRandomNumber = delegate() //Parametresi olmayan metot
         {
-            Random random = new Random();
+            Random random = new Random(); //Random class
             return random.Next(1, 100);
         };
-        Console.WriteLine(getRandomNumber);
+        Console.WriteLine(getRandomNumber());
 
         Func<int> getRAndomNumber2 = () => new Random().Next(1, 100);
-        Console.WriteLine(getRAndomNumber2);
+        
+        Thread.Sleep(1000); //Uygulama 1 sn bekler
+        Console.WriteLine(getRAndomNumber2());
 
         // Console.WriteLine(Add(2, 3));
 

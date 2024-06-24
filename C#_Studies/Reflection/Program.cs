@@ -13,7 +13,7 @@ var type = typeof(Maths);
 //Console.WriteLine(maths.Add(4, 5));
 //Console.WriteLine(maths.Add2());
 
-var instance = Activator.CreateInstance(type, 6 ,5); //**Activator.CreateInstance obje döndürür
+var instance = Activator.CreateInstance(type, 4,5); //**Activator.CreateInstance obje döndürür
 
 MethodInfo methodInfo = instance.GetType().GetMethod("Add2");
 
