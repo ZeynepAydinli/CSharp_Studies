@@ -9,10 +9,11 @@ using System.Threading.Tasks;
 namespace Attributes;
 
 [ToTable("Customers")]
+[ToTable("Users")]
 public class Customer
 {
     public int Id { get; set; }
-    [RequiredProperty]
+    [RequiredProperty] //FirstName girmek zorunludur
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public int Age { get; set; }
